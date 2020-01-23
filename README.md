@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ # Description 
+
+ Simple gallows game made with vue and love.
