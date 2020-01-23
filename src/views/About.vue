@@ -1,5 +1,17 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <ModalAsk/>
 </template>
+
+<script>
+import ModalAsk from '@/components/ModalAsk.vue'
+
+export default {
+  components: {
+    ModalAsk
+  }
+}
+</script>
+
+<style>
+
+</style>

@@ -1,1 +1,29 @@
-<svg id="gallows" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410.61 488.5"><defs><style>.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:10px;}</style></defs><title>Hanged</title><g id="plank1"><rect x="101.61" width="15" height="391"/></g><circle id="head" class="cls-1" cx="330.28" cy="125.56" r="38.5"/><rect id="body" class="cls-1" x="327.61" y="166" width="6" height="139" rx="1.67"/><rect id="leftLeg" class="cls-1" x="309" y="306" width="4" height="109" rx="1.43" transform="translate(126.42 -78.54) rotate(18.02)"/><rect id="rightLeg" class="cls-1" x="347" y="306" width="4" height="109" rx="1.43" transform="translate(792.03 595.32) rotate(161.98)"/><rect id="rightHand" class="cls-1" x="364" y="126" width="4" height="109" rx="1.43" transform="translate(170.42 -177.88) rotate(35.17)"/><rect id="leftHand" class="cls-1" x="292" y="126" width="4" height="109" rx="1.43" transform="translate(636.95 146.8) rotate(142.85)"/><g id="plank2"><rect x="101.61" width="309" height="15"/></g><rect id="rope" x="322.61" y="15" width="5" height="150"/><polygon id="x2" points="217.95 365.04 216.17 391.24 0 417.2 1.78 391.01 217.95 365.04"/><polygon id="x1" points="90.04 488.5 61.79 485.46 127.91 293.75 156.16 296.79 90.04 488.5"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 411 488" style="enable-background:new 0 0 411 488;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:10;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="102" width="15" height="391"/>
+</g>
+<path class="st0" d="M332.3,305h-2.7c-0.9,0-1.7-0.7-1.7-1.7V167.7c0-0.9,0.7-1.7,1.7-1.7h2.7c0.9,0,1.7,0.7,1.7,1.7v135.7
+	C334,304.3,333.3,305,332.3,305z"/>
+<path class="st0" d="M292.7,411.5l-1.1-0.4c-0.8-0.2-1.2-1.1-0.9-1.8l32.8-100.9c0.2-0.8,1.1-1.2,1.8-0.9l1.1,0.4
+	c0.8,0.2,1.2,1.1,0.9,1.8l-32.8,100.9C294.2,411.3,293.4,411.7,292.7,411.5z"/>
+<path class="st0" d="M368.3,411.5l1.1-0.4c0.8-0.2,1.2-1.1,0.9-1.8l-32.8-100.9c-0.2-0.8-1.1-1.2-1.8-0.9l-1.1,0.4
+	c-0.8,0.2-1.2,1.1-0.9,1.8l32.8,100.9C366.8,411.3,367.6,411.7,368.3,411.5z"/>
+<path class="st0" d="M397.9,137.4l-0.9-0.7c-0.6-0.5-1.5-0.3-2,0.4l-61.1,89.6c-0.5,0.7-0.3,1.6,0.3,2.1l0.9,0.7
+	c0.6,0.5,1.5,0.3,2-0.4l61.1-89.6C398.7,138.8,398.5,137.9,397.9,137.4z"/>
+<path class="st0" d="M260.6,140.4l0.9-0.7c0.6-0.5,1.5-0.4,2,0.3l64.1,84.6c0.5,0.6,0.4,1.5-0.3,2l-0.9,0.7c-0.6,0.5-1.5,0.4-2-0.3
+	l-64.1-84.6C259.9,141.8,260,140.9,260.6,140.4z"/>
+<g>
+	<rect x="102" width="309" height="15"/>
+</g>
+<rect x="323" y="15" width="5" height="155"/>
+<circle class="st1" cx="330.5" cy="125.5" r="38.5"/>
+<rect x="105.4" y="304.5" transform="matrix(0.7328 0.6805 -0.6805 0.7328 307.8478 28.1001)" width="25.5" height="203"/>
+<rect x="100.8" y="304.4" transform="matrix(-0.3809 0.9246 -0.9246 -0.3809 534.4496 453.9445)" width="28.9" height="203"/>
+</svg>
