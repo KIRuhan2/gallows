@@ -52,8 +52,8 @@ export default {
   --fontColor_theme_light : #000;
 }
 
-*{
-  transition: background-color 0.5s, fill 0.5s, stroke 0.5s;
+* {
+  /* transition: background-color 0.5s, fill 0.5s, stroke 0.5s; */
   margin: 0;
   padding: 0;
   border: 0;
